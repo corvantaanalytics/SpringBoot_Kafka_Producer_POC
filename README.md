@@ -1,4 +1,5 @@
 KAFKA INSTALLATION STEPS:
+-------------------------
 
 1)Install Apache Kafka from https://kafka.apache.org/downloads.Choose version of your choice.
 2)Extract and store it in a separate folder.
